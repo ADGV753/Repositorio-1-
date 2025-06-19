@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import java.sql.Date;
 import java.util.Scanner;
 
-public class gitMain {
+public class Main {
     public static void main(String[] args) {
         // Probar conexión
         probarConexionBD();
@@ -204,3 +204,4 @@ public class gitMain {
         } while (option != 5);
     }
 }
+
